@@ -18,3 +18,8 @@ Finance Math App is my first project with LLM. It is an interactive web app that
 
 
 it's a work under progress and I will update the improved version by time.
+
+<img width="1435" alt="Screenshot 2025-06-13 at 2 11 41 PM" src="https://github.com/user-attachments/assets/7ac2e6d3-8892-4aa2-aa50-3082c2cd9843" />
+
+<img width="1434" alt="Screenshot 2025-06-13 at 2 12 09 PM" src="https://github.com/user-attachments/assets/e2763132-24d2-4db3-b5c3-37efd372b61d" />
+
