@@ -44,13 +44,13 @@ elif menu == "About App":
     st.subheader("About FinMath-GPT")
     st.markdown("""
     
-    **FinMath-LLM** is your AI-powered financial math tutor — designed to help students, professionals, and learners solve financial problems with clear, step-by-step explanations.
+    **FinMath-LLM** is financial math tutor, designed to help students, professionals, and learners solve financial problems with clear, step-by-step explanations.
 
     ### What It Does:
     - Understands your finance/math questions in plain English
     - Solves problems like loan payments, interest, NPV, and more
     - Displays real-time stock prices using Yahoo Finance
-    - Provides accurate and easy-to-read solutions with explanations
+    - Provides accurate and easy to read solutions with explanations
 
     ### Who It's For:
     - Students preparing for finance, economics, or accounting exams
@@ -58,7 +58,7 @@ elif menu == "About App":
     - Self-learners exploring personal finance or investment topics
 
     ### How It Works:
-    FinMath-LLM uses advanced language models (LLMs) to understand your queries and return structured, tutor-style responses using real mathematical logic and formulas.
+    FinMath-App uses LLM to understand your queries and return structured, tutor-style responses using real mathematical logic and formulas.
 
     ---
     Developed by Nolvenne Tah to make financial education more accessible and interactive through AI.  
