@@ -1,5 +1,3 @@
-# finance_formulas.py or inside finmath_model.py
-
 import re
 
 def simple_interest(P, R, T):
