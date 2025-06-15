@@ -16,6 +16,7 @@ Finance Math App is my first project with LLM. It is an interactive web app that
 
 - fine_tune.py is the model tuning code.
 - fine_date.jsonl is the dataset.
+- Finance_formular to use Python to make arithmetic operations
 
 
 It's a work under progress and I will update the improved version by time. I'm working on improving answer accuracy, adding PDF/CSV uploads for batch questions, and fine-tuning the model on a larger finance-specific dataset, etc. I welcome you to use my code as a baseline for your project.
@@ -24,5 +25,7 @@ It's a work under progress and I will update the improved version by time. I'm w
 
 <img width="1434" alt="Screenshot 2025-06-13 at 2 12 09 PM" src="https://github.com/user-attachments/assets/e2763132-24d2-4db3-b5c3-37efd372b61d" />
 
-<img width="1432" alt="Screenshot 2025-06-13 at 2 59 44 PM" src="https://github.com/user-attachments/assets/5659c769-272a-46ea-800e-fd67fcc3bfa6" />
+<img width="1438" alt="Screenshot 2025-06-15 at 5 34 50 PM" src="https://github.com/user-attachments/assets/2649fe3b-e7e0-4793-9151-b18c8562f0e7" />
+
+
 
